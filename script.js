@@ -296,7 +296,7 @@ const ülkeBilgisiAl = function (ülke) {
 }
 
 btn.addEventListener('click', function () {
-  ülkeBilgisiAl('japan')
+  ülkeBilgisiAl('turkey')
 })
 
 // ülkeBilgisiAl('qwqwqwqw')
